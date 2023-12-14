@@ -52,7 +52,10 @@ Specify areas for further discussion or features of interest! 🚀✨ Succinct a
    ```
    **Note:** If you encounter any issues, ensure that you have the correct dependencies installed.
    
-⚠️Before running `RainbowGPT_Agent_ui.py`, ensure you move the modified `3rd_modify/langchain/vectorstores/chroma.py` file to the Langchain module's library folder and rename it to match the library file. This step is crucial for proper execution. 🌈
+> ⚠️Tips：
+> **To launch the entire project, you only need to execute `RainbowGPT_Launchpad_UI.py`**
+
+> Before running `RainbowGPT_Launchpad_UI.py`, make sure to relocate the modified `3rd_modify/langchain/vectorstores/chroma.py` file to the Langchain module's library folder and rename it to match the library file. This step is crucial for proper execution. 🌈 
 
 ### API Configuration
 Before using the application, follow these steps to configure API-related information in the `.env` file:
@@ -149,15 +152,17 @@ By leveraging the diverse strengths of different algorithms, EnsembleRetriever a
 
 
 🤗 **Rainbow Agent UI**
-![WebScraping](https://github.com/ZhuJD-China/RainbowGPT/blob/master/imgs/exp1.png)
+![WebScraping](https://github.com/ZhuJD-China/RainbowGPT/blob/master/imgs/ui_total.png)
+
+⚡ **SQL_Agent UI**
+![SQL_Agent](https://github.com/ZhuJD-China/RainbowGPT/blob/master/imgs/ui_total2.png)
 
 📊 **StockGPT Analysis**
 ![StockGPT](https://github.com/ZhuJD-China/RainbowGPT/blob/master/imgs/stock1.png)
-
-⚡ **SQL_Agent UI**
-![SQL_Agent](https://github.com/ZhuJD-China/RainbowGPT/blob/master/imgs/SQL_Agent.png)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ZhuJD-China/RainbowGPT&type=Timeline)](https://star-history.com/#ZhuJD-China/RainbowGPT&Timeline)
 
 🚀 Explore the diverse capabilities of RainbowGPT and leverage its powerful modules for your projects! 🌈✨
 
+## 🌟 Contributors
+[![langchain contributors](https://contrib.rocks/image?repo=ZhuJD-China/RainbowGPT&max=2000)](https://github.com/ZhuJD-China/RainbowGPT/graphs/contributors)
